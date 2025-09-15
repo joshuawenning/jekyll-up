@@ -10,7 +10,7 @@
 
 1. Clone or use this template.
 ```
-gh repo clone advaitchaitanya/jekyll-up
+gh repo clone joshuawenning/jekyll-up
 ```
 2. Install Jekyll.
 ```
