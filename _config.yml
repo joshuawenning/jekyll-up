@@ -1,9 +1,13 @@
 title: Jekyll Up
 
+livereload: true
+
+sass:
+  style: compressed
+
 # https://github.com/jekyll/jekyll/issues/7478#issuecomment-454419470
 theme: null
 
 url: https://joshuawenning.github.io/jekyll-up
 
-sass:
-  style: compressed
+
