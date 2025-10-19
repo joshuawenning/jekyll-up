@@ -48,3 +48,9 @@ npm test
 ```
 npm run deploy
 ```
+
+## Code Style Guide
+
+For developing consistent code styles, **Jekyll Up** follows [Code Guide](https://codeguide.co/) created by [@mdo](https://markdotto.com/), with two exceptions: HTML attributes and CSS property declarations are ordered alphabetically. The project has a sharable [EditorConfig file](https://raw.githubusercontent.com/joshuawenning/jekyll-up/refs/heads/main/.editorconfig) for applying some of these preferences.
+
+For JavaScript we use [JavaScript Standard Style](https://standardjs.com/), which is installed by default with a simple npm script to lint `main.js`.
