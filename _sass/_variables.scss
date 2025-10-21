@@ -1,38 +1,40 @@
-//
-// Typeface
-//
+:root {
+  //
+  // Typeface
+  //
 
-$font-primary: sans-serif;
-$font-secondary: serif;
+  --font-primary: sans-serif;
+  --font-secondary: serif;
 
-//
-// Type Scale
-//
+  //
+  // Type Scale
+  //
 
-$h1: 4rem;
-$h2: 3rem;
-$h3: 2.25rem;
-$h4: 1.5rem;
-$h5: 1.25rem;
-$h6: 1rem;
-$h7: .75rem;
+  --h1: 4rem;
+  --h2: 3rem;
+  --h3: 2.25rem;
+  --h4: 1.5rem;
+  --h5: 1.25rem;
+  --h6: 1rem;
+  --h7: .75rem;
 
-//
-// Spacing
-//
+  //
+  // Spacing
+  //
 
-$space-1: .5rem;
-$space-2: 1rem;
-$space-3: 2rem;
-$space-4: 4rem;
+  --space-1: .5rem;
+  --space-2: 1rem;
+  --space-3: 2rem;
+  --space-4: 4rem;
 
-$width-md: 768px;
-$width-lg: 960px;
-$width-xl: 1400px;
+  --width-md: 768px;
+  --width-lg: 960px;
+  --width-xl: 1400px;
 
-//
-// Color
-//
+  //
+  // Color
+  //
 
-$black: #000;
-$white: #fff;
+  --black: #000;
+  --white: #fff;
+}
