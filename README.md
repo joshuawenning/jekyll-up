@@ -1,4 +1,4 @@
-# Jekyll Up 🧪
+# Jekyll Up
 > Get up and running with a minimal Jekyll site scaffold
 
 ## Prerequisites
