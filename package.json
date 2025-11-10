@@ -1,6 +1,6 @@
 {
   "name": "jekyll-up",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Get up and running with a minimal Jekyll site scaffold",
   "scripts": {
     "build": "bundle exec jekyll build",
