@@ -56,12 +56,12 @@ For developing consistent code styles, **Jekyll Up** follows [Code Guide](https:
 For JavaScript we use [JavaScript Standard Style](https://standardjs.com/), which is installed by default with a simple npm script to lint `main.js`.
 
 ## v3 Todo
-- [] Incorporate `@layer` CSS for base, component, and utility classes
-- [] Potentially add npm scripts for linting HTML and CSS
-- [] Design a project logo
-- [] Build header/footer components (proper doc setup)
-- [] Create a favicon include
-- [] Mention handling forms with [Netlify](https://docs.netlify.com/manage/forms/setup/)
-- [] Add deployment solution using [Netlify](https://www.netlify.com/)
-- [] Create docs for CMS adoption on [Siteleaf](https://www.siteleaf.com/)
-- [] Mention e-commerce integration with [Snipcart](https://snipcart.com/)
+- [ ] Incorporate `@layer` CSS for base, component, and utility classes
+- [ ] Potentially add npm scripts for linting HTML and CSS
+- [ ] Design a project logo
+- [ ] Build header/footer components (proper doc setup)
+- [ ] Create a favicon include
+- [ ] Mention handling forms with [Netlify](https://docs.netlify.com/manage/forms/setup/)
+- [ ] Add deployment solution using [Netlify](https://www.netlify.com/)
+- [ ] Create docs for CMS adoption on [Siteleaf](https://www.siteleaf.com/)
+- [ ] Mention e-commerce integration with [Snipcart](https://snipcart.com/)
