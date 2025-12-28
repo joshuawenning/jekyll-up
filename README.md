@@ -1,6 +1,18 @@
 # Jekyll Up
 > Get up and running with a minimal Jekyll site scaffold
 
+## Philosophy
+[Jekyll](https://jekyllrb.com) is one of the most straightforward and joyful tools I use for building websites. Quoted from the project itself, "Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites." Though it first launched in late 2008, I find that it's still a viable and elegant solution for most marketing sites and blogs. Content takes a center stage with a gentle but indispensable abstraction on top of writing HTML—file organization and [Liquid templating](https://shopify.github.io/liquid/). This lowers the bar to entry for new web developers, finding relief from the looming pressure of large JS frameworks creating technical debt and build tools that obfuscate the best part of the web: View Page Source. **Jekyll Up** is not a framework, but a personalized template I use as a starting point for client projects. It takes the power of Jekyll and elevates it with *just enough* boilerplate—tooling and ecosystem recommendations—to launch an amazing product. To sum up my love and reasoning for using Jekyll:
+- Minimal enhancements to web standards
+- Lower bar to entry
+- Predictable output
+- Faster, more secure, and self host-able
+- Sufficient for most marketing sites and blogs
+- Adaptable to any CMS
+- Built on [Ruby](https://www.ruby-lang.org/en/) <3
+
+Happy coding, friends!
+
 ## Prerequisites
 1. [Ruby](https://www.ruby-lang.org/en/), version 2.7.0 or higher
 2. [Jekyll](https://jekyllrb.com) Ruby gem
